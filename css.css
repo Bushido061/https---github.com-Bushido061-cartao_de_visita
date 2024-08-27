@@ -1,0 +1,71 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.cartao-visita {
+    background-color: #ffffff;
+    width: 350px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.cartao-visita h1 {
+    font-size: 24px;
+    margin: 0;
+    color: #333;
+}
+
+.cartao-visita p {
+    font-size: 14px;
+    margin: 10px 0;
+    color: #777;
+}
+
+.cartao-visita a {
+    text-decoration: none;
+    color: #002fff;
+    font-weight: bold;
+}
+
+.cartao-visita a:hover {
+    color: #002fff;
+}
+
+.botao-personalizado{
+background-color: #007bff;
+color: white;
+border: none;
+border-radius: 5px;
+padding: 10px 20px;
+font-size: 16px;
+cursor: pointer;
+box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+transition: background-color 0.3s, transform 0.3s;
+}
+
+.botao-personalizado:hover {
+background-color: #0056b3;
+transform: scale(1.05);
+}
+
+.botao-personalizado:active {
+background-color: #004494;
+transform: scale(1);
+}
+
+body {
+    background-image: url('/universe-2250310_1920.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
