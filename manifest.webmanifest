@@ -1,0 +1,20 @@
+{
+    "name": "Cartão pessoal do Hudson",
+    "short_name": "Cartao",
+    "description": "Aplicativo de referência dos dados profissionais de Hudson Vittorin Alves Amâncio.",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+      {
+        "src": "./image/72a0ec2ce73566d839e5600309a1db04b9ddead4-1920x1080.webp",
+        "sizes": "956x538",
+        "type": "image/png"
+      }
+    
+      
+    ],
+    "lang":"pt-BR"
+}
+  
