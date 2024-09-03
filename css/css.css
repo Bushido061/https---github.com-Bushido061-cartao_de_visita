@@ -6,6 +6,7 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
+   
 }
 
 .cartao-visita {
@@ -62,10 +63,10 @@ transform: scale(1);
 }
 
 body {
-    background-image: url('/universe-2250310_1920.webp');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-image: url('./img/universe-2250310_1920.jpg');
 }
 
 

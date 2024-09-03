@@ -2,11 +2,23 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
+    <!--controla a maneira como o navegador redenriza o conteúdo em app móveis-->>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cartão de Visita (original)</title>
+    <title>Cartão pessoal (PWA)</title>
+
+    <!--associar um arquivo de manifesto a uma página HTML-->
+    <link rel="manifest" href="manifest.webmanifest">
+
+    <!--definir a cor do tema de um site em dispositivos móveis com android-->
+<meta name="thema-color" content="white">
+
    <link rel="stylesheet" href="./css/css.css">
 </head>
 <body>
+
+    <!-- chama o javascript principal-->
+     <script src="./script/main.js"></script>
+
     <div class="cartao-visita">
        <img src="./img/72a0ec2ce73566d839e5600309a1db04b9ddead4-1920x1080.webp" alt="YOURU" width="200">
        <h1>Hudson Vittorin</h1>
@@ -18,3 +30,5 @@
     </div>
 </body>
  </html>
+
+
