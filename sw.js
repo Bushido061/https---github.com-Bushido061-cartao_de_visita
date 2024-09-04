@@ -5,7 +5,8 @@ const filesCache = [
     '.index.html',
     './css/css.css',
     './image/./img/72a0ec2ce73566d839e5600309a1db04b9ddead4-1920x1080.webp',
-    './script/main.js'
+    './script/main.js',
+    './image/img/3054726-um-canto-remoto-do-universo-foto.jpg'
 ]
 
 //instalar o Service Worker e armazenar em cache
