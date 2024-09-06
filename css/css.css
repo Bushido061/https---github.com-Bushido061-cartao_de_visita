@@ -5,13 +5,14 @@ body {
     height: 100vh;
     margin: 0;
     font-family: Arial, sans-serif;
+    background-image: url("../img/fundo.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
   
 }
 
 .fundo{
-    background-image: url("/img/3054726-um-canto-remoto-do-universo-foto.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
+    
    }
 
 .cartao-visita {
